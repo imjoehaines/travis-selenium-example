@@ -1,0 +1,8 @@
+{
+    "require": {
+        "codeception/codeception": "^2.2"
+    },
+    "scripts": {
+        "test": "codecept run acceptance"
+    }
+}
